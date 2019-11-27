@@ -352,3 +352,9 @@ div.life{
 .img_div a:hover .mask04 {
     opacity: 1;           
 }
+.foo{
+		position: absolute;
+		top:1000px;
+		width: 100%;
+		background-color:black;
+}
